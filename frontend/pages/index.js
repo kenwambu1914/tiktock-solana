@@ -3,6 +3,7 @@ import MainView from "../Components/MainView";
 let connected = true;
 export default function Home() {
   return (
+    
     <div className="app">
       {connected ? (
         <MainView />
