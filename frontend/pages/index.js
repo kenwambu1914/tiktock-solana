@@ -1,6 +1,6 @@
 import MainView from "../Components/MainView";
 
-let connected = true;
+let connected = false;
 export default function Home() {
   return (
     
